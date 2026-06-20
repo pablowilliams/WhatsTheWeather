@@ -90,3 +90,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Made with ❤️ by [chesta-test](https://github.com/chesta-test)
+## Notes & Local Extensions
+
+- Running locally to explore the multi-API fallback logic and the day/night theme switch.
+- Next steps: add a unit-friendly cache layer for API responses and an "hourly" view toggle.
+- Credit: original app by [chesta-test](https://github.com/chesta-test/WhatsTheWeather).
